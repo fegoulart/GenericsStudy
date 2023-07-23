@@ -8,6 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		199BF6A52A6D5698007A0C2A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6A42A6D5698007A0C2A /* main.swift */; };
+		199BF6AE2A6D59F1007A0C2A /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6AD2A6D59F1007A0C2A /* Animal.swift */; };
+		199BF6B02A6D59FA007A0C2A /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6AF2A6D59FA007A0C2A /* Food.swift */; };
+		199BF6B32A6D5A24007A0C2A /* Chicken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6B22A6D5A24007A0C2A /* Chicken.swift */; };
+		199BF6B52A6D5A30007A0C2A /* Cow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6B42A6D5A30007A0C2A /* Cow.swift */; };
+		199BF6B72A6D5A42007A0C2A /* Egg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6B62A6D5A42007A0C2A /* Egg.swift */; };
+		199BF6B92A6D5A4E007A0C2A /* Milk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6B82A6D5A4E007A0C2A /* Milk.swift */; };
+		199BF6BB2A6D5CFD007A0C2A /* Farm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6BA2A6D5CFD007A0C2A /* Farm.swift */; };
+		199BF6BD2A6D5FFD007A0C2A /* AnimalFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6BC2A6D5FFD007A0C2A /* AnimalFeed.swift */; };
+		199BF6BF2A6D603F007A0C2A /* Scratch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6BE2A6D603F007A0C2A /* Scratch.swift */; };
+		199BF6C12A6D607E007A0C2A /* Hay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6C02A6D607E007A0C2A /* Hay.swift */; };
+		199BF6C32A6D6A20007A0C2A /* Crop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6C22A6D6A20007A0C2A /* Crop.swift */; };
+		199BF6C52A6D6DBE007A0C2A /* Alfalfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6C42A6D6DBE007A0C2A /* Alfalfa.swift */; };
+		199BF6C72A6D6F3E007A0C2A /* Millet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199BF6C62A6D6F3E007A0C2A /* Millet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +38,20 @@
 /* Begin PBXFileReference section */
 		199BF6A12A6D5698007A0C2A /* GenericsStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GenericsStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		199BF6A42A6D5698007A0C2A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		199BF6AB2A6D5894007A0C2A /* Concepts.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Concepts.md; sourceTree = "<group>"; };
+		199BF6AD2A6D59F1007A0C2A /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		199BF6AF2A6D59FA007A0C2A /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		199BF6B22A6D5A24007A0C2A /* Chicken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chicken.swift; sourceTree = "<group>"; };
+		199BF6B42A6D5A30007A0C2A /* Cow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cow.swift; sourceTree = "<group>"; };
+		199BF6B62A6D5A42007A0C2A /* Egg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg.swift; sourceTree = "<group>"; };
+		199BF6B82A6D5A4E007A0C2A /* Milk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Milk.swift; sourceTree = "<group>"; };
+		199BF6BA2A6D5CFD007A0C2A /* Farm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Farm.swift; sourceTree = "<group>"; };
+		199BF6BC2A6D5FFD007A0C2A /* AnimalFeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalFeed.swift; sourceTree = "<group>"; };
+		199BF6BE2A6D603F007A0C2A /* Scratch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scratch.swift; sourceTree = "<group>"; };
+		199BF6C02A6D607E007A0C2A /* Hay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hay.swift; sourceTree = "<group>"; };
+		199BF6C22A6D6A20007A0C2A /* Crop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crop.swift; sourceTree = "<group>"; };
+		199BF6C42A6D6DBE007A0C2A /* Alfalfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alfalfa.swift; sourceTree = "<group>"; };
+		199BF6C62A6D6F3E007A0C2A /* Millet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Millet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +68,7 @@
 		199BF6982A6D5698007A0C2A = {
 			isa = PBXGroup;
 			children = (
+				199BF6AB2A6D5894007A0C2A /* Concepts.md */,
 				199BF6A32A6D5698007A0C2A /* GenericsStudy */,
 				199BF6A22A6D5698007A0C2A /* Products */,
 			);
@@ -57,9 +85,38 @@
 		199BF6A32A6D5698007A0C2A /* GenericsStudy */ = {
 			isa = PBXGroup;
 			children = (
+				199BF6AC2A6D59E3007A0C2A /* Protocol */,
+				199BF6B12A6D5A11007A0C2A /* Model */,
 				199BF6A42A6D5698007A0C2A /* main.swift */,
 			);
 			path = GenericsStudy;
+			sourceTree = "<group>";
+		};
+		199BF6AC2A6D59E3007A0C2A /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				199BF6AD2A6D59F1007A0C2A /* Animal.swift */,
+				199BF6AF2A6D59FA007A0C2A /* Food.swift */,
+				199BF6BC2A6D5FFD007A0C2A /* AnimalFeed.swift */,
+				199BF6C22A6D6A20007A0C2A /* Crop.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		199BF6B12A6D5A11007A0C2A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				199BF6B22A6D5A24007A0C2A /* Chicken.swift */,
+				199BF6B42A6D5A30007A0C2A /* Cow.swift */,
+				199BF6B62A6D5A42007A0C2A /* Egg.swift */,
+				199BF6B82A6D5A4E007A0C2A /* Milk.swift */,
+				199BF6BA2A6D5CFD007A0C2A /* Farm.swift */,
+				199BF6BE2A6D603F007A0C2A /* Scratch.swift */,
+				199BF6C02A6D607E007A0C2A /* Hay.swift */,
+				199BF6C42A6D6DBE007A0C2A /* Alfalfa.swift */,
+				199BF6C62A6D6F3E007A0C2A /* Millet.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +177,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199BF6C72A6D6F3E007A0C2A /* Millet.swift in Sources */,
 				199BF6A52A6D5698007A0C2A /* main.swift in Sources */,
+				199BF6B52A6D5A30007A0C2A /* Cow.swift in Sources */,
+				199BF6B32A6D5A24007A0C2A /* Chicken.swift in Sources */,
+				199BF6BF2A6D603F007A0C2A /* Scratch.swift in Sources */,
+				199BF6C52A6D6DBE007A0C2A /* Alfalfa.swift in Sources */,
+				199BF6BB2A6D5CFD007A0C2A /* Farm.swift in Sources */,
+				199BF6C32A6D6A20007A0C2A /* Crop.swift in Sources */,
+				199BF6B92A6D5A4E007A0C2A /* Milk.swift in Sources */,
+				199BF6B72A6D5A42007A0C2A /* Egg.swift in Sources */,
+				199BF6AE2A6D59F1007A0C2A /* Animal.swift in Sources */,
+				199BF6B02A6D59FA007A0C2A /* Food.swift in Sources */,
+				199BF6C12A6D607E007A0C2A /* Hay.swift in Sources */,
+				199BF6BD2A6D5FFD007A0C2A /* AnimalFeed.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
